@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "dependencies": {
+    "react-native-cz-scroll-tab": "git+https://github.com/chenzhe555/react-native-cz-scroll-tab.git",
+    "react-native-cz-pack-element": "git+https://github.com/chenzhe555/react-native-cz-pack-element.git"
+  },
   "keywords": [
     "react-native",
     "panel",
